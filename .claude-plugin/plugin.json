@@ -1,0 +1,21 @@
+{
+  "name": "gopairup",
+  "displayName": "GoPairUp",
+  "version": "1.0.0",
+  "description": "Group your class and write quiz games from a conversation: make and shuffle groups, mark who is out, keep students apart, and save standards-aligned quizzes to GoPairUp, the classroom grouping app for elementary teachers.",
+  "author": {
+    "name": "Eclarius LLC",
+    "url": "https://gopairup.com"
+  },
+  "homepage": "https://gopairup.com/connect",
+  "privacyPolicyUrl": "https://gopairup.com/privacy",
+  "repository": "https://github.com/GoPairUp/gopairup-plugin",
+  "license": "MIT",
+  "keywords": [
+    "education",
+    "teachers",
+    "classroom",
+    "groups",
+    "quizzes"
+  ]
+}
