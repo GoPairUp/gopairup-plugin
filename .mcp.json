@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gopairup": {
+      "type": "http",
+      "url": "https://gopairup.com/mcp"
+    }
+  }
+}
