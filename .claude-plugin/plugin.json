@@ -9,6 +9,9 @@
   },
   "homepage": "https://gopairup.com/connect",
   "privacyPolicyUrl": "https://gopairup.com/privacy",
+  "termsOfServiceUrl": "https://gopairup.com/terms",
+  "supportUrl": "https://gopairup.com/help",
+  "documentationUrl": "https://gopairup.com/connect",
   "repository": "https://github.com/GoPairUp/gopairup-plugin",
   "license": "MIT",
   "keywords": [
